@@ -1,0 +1,44 @@
+@font-face {
+  font-family: "BebasNeue-Regular";
+  font-display: swap;
+  src: url("../fonts/file_name.woff") format("woff"), url("../fonts/file_name.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Lato";
+  font-display: swap;
+  src: url("../fonts/file_name.woff") format("woff"), url("../fonts/file_name.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "SF UI Display Regular";
+  font-display: swap;
+  src: url("../fonts/file_name.woff") format("woff"), url("../fonts/file_name.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Lato";
+  font-display: swap;
+  src: url("../fonts/file_name.woff") format("woff"), url("../fonts/file_name.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "SF-UI-Display-Regular";
+  font-display: swap;
+  src: url("../fonts/file_name.woff") format("woff"), url("../fonts/file_name.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
+._no-webp div {
+  background: url("../img/relax.jpg") 0 0 repeat; }
+
+._webp div { background: url(../img/relax.webp) 0 0 repeat; }
